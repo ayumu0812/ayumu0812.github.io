@@ -1,8 +1,8 @@
 [
   {
     "id": "paper-1",
-    "title": "Your Paper Title 1",
-    "titleJa": "あなたの論文タイトル1",
+    "title": "Your Paper Title",
+    "titleJa": "あなたの論文タイトル",
     "authors": "Author 1, Author 2",
     "authorsJa": "著者1, 著者2",
     "journal": "Journal Name",
@@ -10,6 +10,6 @@
     "year": "2023",
     "month": "01",
     "doi": "10.1234/abcd",
-    "isMainWork": false
+    "isMainWork": true
   }
 ]
