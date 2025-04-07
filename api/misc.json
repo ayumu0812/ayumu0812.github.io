@@ -1,15 +1,15 @@
 [
   {
-    "id": "example-id",
-    "title": "Example Title",
-    "titleJa": "タイトル",
-    "authors": "",
-    "authorsJa": "",
-    "journal": "",
-    "journalJa": "",
-    "year": "",
-    "month": "",
-    "doi": "",
+    "id": "paper-1",
+    "title": "Your Paper Title",
+    "titleJa": "あなたの論文タイトル",
+    "authors": "Author 1, Author 2",
+    "authorsJa": "著者1, 著者2",
+    "journal": "Journal Name",
+    "journalJa": "ジャーナル名",
+    "year": "2023",
+    "month": "01",
+    "doi": "10.1234/abcd",
     "isMainWork": false
   }
 ]
