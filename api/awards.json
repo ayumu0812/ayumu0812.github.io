@@ -1,12 +1,12 @@
 [
   {
-    "id": "example-id",
-    "title": "Example Award Name",
-    "titleJa": "賞名",
-    "awarder": "Example Awarder",
-    "awarderJa": "授与機関",
-    "year": "2025",
-    "month": "03",
+    "id": "award-up1ktx1uj",
+    "title": "Untitled",
+    "titleJa": "Untitled",
+    "awarder": "",
+    "awarderJa": "",
+    "year": "",
+    "month": "",
     "isMainWork": false
   }
 ]
