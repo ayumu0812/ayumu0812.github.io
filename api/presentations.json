@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "example-id",
+    "title": "Example Title",
+    "titleJa": "タイトル",
+    "speakers": "",
+    "speakersJa": "",
+    "conference": "",
+    "conferenceJa": "",
+    "date": "",
+    "year": "",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  }
+]
