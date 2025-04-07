@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "example-id",
+    "title": "Program Name (Example)",
+    "titleJa": "制度名(例)",
+    "subject": "Research Category (Example)",
+    "subjectJa": "研究種目(例)",
+    "funder": "Funder (Example)",
+    "funderJa": "提供機関(例)",
+    "description": "This is an example record for explanation purposes",
+    "descriptionJa": "これは説明用のレコードです",
+    "number": "例-課題番号",
+    "yearFrom": "2023",
+    "monthFrom": "12",
+    "yearTo": "2024",
+    "monthTo": "12",
+    "isMainWork": false
+  }
+]
