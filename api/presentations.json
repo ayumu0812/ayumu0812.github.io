@@ -1,16 +1,16 @@
 [
   {
     "id": "presentation-1",
-    "title": "Development of a method for observing dislocation charges in GaN-based semiconductors",
+    "title": "GaN系半導体中の転位電荷観察手法の開発",
     "titleJa": "GaN系半導体中の転位電荷観察手法の開発",
-    "speakers": "Ayumu Oyaizu, Satoko Toyama, Takehito Seki, Yuya Kanitani, Naoya Shibata",
+    "speakers": "小柳津歩夢, 遠山慧子, 関岳人, 蟹谷裕也, 柴田直哉",
     "speakersJa": "小柳津歩夢, 遠山慧子, 関岳人, 蟹谷裕也, 柴田直哉",
-    "conference": "The 81st Annual Meeting of The Japanese Society of Microscopy",
-    "conferenceJa": "日本顕微鏡学会第81回学術講演会",
+    "conference": "日本顕微鏡学会　第81回学術講演会",
+    "conferenceJa": "日本顕微鏡学会　第81回学術講演会",
     "date": "2025-06-09",
     "year": "2025",
-    "place": "Fukuoka",
-    "placeJa": "福岡",
+    "place": "福岡国際会議場",
+    "placeJa": "福岡国際会議場",
     "isInvited": false
   }
 ]
