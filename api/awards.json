@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "award1",
+    "title": "優秀口頭発表賞",
+    "titleJa": "優秀口頭発表賞",
+    "awarder": "日本顕微鏡学会",
+    "awarderJa": "日本顕微鏡学会",
+    "year": "2025",
+    "month": "06",
+    "isMainWork": false
+  }
+]
